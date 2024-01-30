@@ -2,12 +2,12 @@
 
 ## Hero
 
-![ss](./src/assets/ss1.png)
+![ss](./src/assets/az.png)
 
 ## Table 1
 
-![ss](./src/assets/ss2.png)
+![ss](./src/assets/za.png)
 
 ## Table 2
 
-![ss](./src/assets/ss3.png)
+![ss](./src/assets/ss.png)
