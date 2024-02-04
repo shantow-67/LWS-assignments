@@ -1,13 +1,13 @@
 # Project Display
 
-## Hero
+## Sort A-z
 
-![ss](./src/assets/ss1.png)
+![ss](./src/assets/az.png)
 
-## Table 1
+## Sort Z-A
 
-![ss](./src/assets/ss2.png)
+![ss](./src/assets/za.png)
 
-## Table 2
+## Search
 
-![ss](./src/assets/ss3.png)
+![ss](./src/assets/ss.png)
